@@ -1,5 +1,3 @@
-#A Pilot Study of Deep Learning Models for Camera based Hand
-
 # ICU-MH-20
 
 # A Pilot Study of Deep Learning Models for Camera based Hand Hygiene Monitoring in ICU (EMBC 2023)
